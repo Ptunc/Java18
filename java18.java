@@ -15,6 +15,6 @@ public class java18 {
             if(a%2 == 0 || a%4 == 0) top += a;
             System.out.println(top);
         }
-
+        input.close();
     }
 }
